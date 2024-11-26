@@ -1,1 +1,1 @@
-Java, Pythoning basic programs 
+Basic programs in java and python 
